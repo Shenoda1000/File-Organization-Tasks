@@ -1,0 +1,6 @@
+the younger person:-
+name: Ali
+age: 16
+the older person:-
+name: Ahmed
+age: 20
